@@ -321,12 +321,8 @@ a:hover{
   }
   .show-buttons{
     width:100%;
+    display:flex;
+    flex-wrap:wrap;
+    justify-content:space-around;
   }
-  .button-active {
-    margin: auto;
-  }
-  .button-inactive {
-    margin: auto;
-  }
-
 }
