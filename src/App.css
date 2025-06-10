@@ -123,7 +123,7 @@ legend {
   cursor: pointer;
 }
 .title {
-  font-size:1.5rem;
+  font-size:1rem;
 }
 .post-media {
   margin-right: 2rem;
@@ -284,6 +284,9 @@ a:hover{
     align-items: stretch;
     flex-direction: column;
     color:black;
+  }
+  .title {
+    font-size:1.5rem;
   }
   .post-media {
     width: 240px;
