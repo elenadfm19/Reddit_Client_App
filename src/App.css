@@ -121,8 +121,8 @@ legend {
 .post:hover {
   cursor: pointer;
 }
-.title{
-  font-size:3rem;
+.title {
+  font-size:2rem;
 }
 .post-media {
   margin-right: 2rem;
