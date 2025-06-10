@@ -248,12 +248,18 @@ a:hover{
     justify-content: center;
     align-items: center;
     gap: 2rem;
-      flex-direction:column;
-  align-items:stretch;
   }
-.navlinks {
-  flex-direction:column;
-  align-items:stretch;
+.activeNavLink {
+  color: white;
+  width: 5rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
+}
+.inactiveNavLink {
+  color: black;
+  width: 5rem;
+  margin: 0.5rem;
+  padding: 0.5rem;
 }
   #subreddit-list {
     justify-content: center;
