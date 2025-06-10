@@ -111,6 +111,7 @@ legend {
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
+  width:100%;
 }
 .post:hover {
   cursor: pointer;
@@ -255,10 +256,14 @@ a:hover{
 }
   .post {
     justify-content: center;
+    color:black;
   }
-
   .post-media {
     width: 480px;
     height: 270px;
   }
+.post-bottom {
+  flex-direction: column;
+  justify-content: left;
 }
+
