@@ -262,7 +262,7 @@ a:hover{
     min-width: 0px;
   }
   .post {
-    align-items: center;
+    align-items: left;
     flex-direction: column;
     color:black;
   }
@@ -273,6 +273,7 @@ a:hover{
   }
   .post-content {
     width:auto;
+    min-width: 0;
     overflow:hidden;
 }
   .post-bottom {
