@@ -320,11 +320,7 @@ a:hover{
   }
   .show-buttons{
     width:100%;
+    border:1px solid green;
   }
-  .button-active {
-    width: 6rem;
-  }
-  .button-inactive {
-    width: 6rem;
-  }
+
 }
