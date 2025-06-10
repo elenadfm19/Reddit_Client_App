@@ -77,7 +77,7 @@ export default function CommentedPost() {
           </a>
         )}
         {/*Post text*/}
-        <p>{commentedPost.text}</p>
+        <p className="text">{commentedPost.text}</p>
         {/*Link to original Reddit post*/}
         <a
           href={`https://www.reddit.com${commentedPost.permalink}`}
