@@ -102,6 +102,7 @@ legend {
 .subreddit-name {
   font-weight: bold;
   font-size: 1.5rem;
+  width:100%;
 }
 #post-list{
   display:flex;
