@@ -268,8 +268,9 @@ a:hover{
     flex-direction: column;
   }
   .post-media {
-    width: 480px;
-    height: 270px;
+    width: 100%;
+    height: auto;
+    margin:1rem;
   }
 .post-bottom {
   flex-direction: column;
