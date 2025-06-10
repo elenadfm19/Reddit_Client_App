@@ -153,21 +153,16 @@ legend {
   width: 3rem;
   margin-right: 1rem;
 }
-.commented-post-bottom {
-  display: flex;
-  flex-wrap: wrap;
-  justify-content: space-between;
-  width: 100%;
-}
 #commented-post {
   background-color: #ffe5d4;
   border-radius: 10px;
   padding: 1rem;
-  margin: 1rem;
+  margin: 0;
   display: flex;
   flex-direction: column;
   align-items: center;
   width:100%;
+  color:black;
   border:1px solid green;
 }
 .commented-post-media {
@@ -180,6 +175,12 @@ legend {
   color: white;
   border-radius: 10px;
   padding: 0.5rem;
+}
+.commented-post-bottom {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  width: 100%;
 }
 h1 {
   text-align: center;
@@ -287,7 +288,7 @@ a:hover{
     justify-content: left;
 }
   #commented-post {
-    color:black;
+    
 }
   .commented-post-media {
     width: 240px;
