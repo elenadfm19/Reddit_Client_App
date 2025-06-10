@@ -224,7 +224,7 @@ h3 {
   font-size: 1.5rem;
   width:100%;
   word-break: break-word;
-  text-align: center;
+  self-align: center;
 }
 .button-active {
   background-color: black;
