@@ -262,6 +262,7 @@ a:hover{
   .post {
     justify-content: center;
     color:black;
+    flex-direction: column;
   }
   .post-media {
     width: 480px;
