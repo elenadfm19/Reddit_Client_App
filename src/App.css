@@ -107,7 +107,6 @@ legend {
   display:flex;
   flex-direction: column;
   align-items:stretch;
-  border:1px solid green;
 }
 .post {
   background-color: #ffe5d4;
@@ -117,7 +116,6 @@ legend {
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
-  flex:0 1 100%;
   overflow:hidden;
   border:1px solid red;
 }
@@ -130,8 +128,6 @@ legend {
   height: 270px;
 }
 .post-img {
-  width: 100%;
-  height: 100%;
   object-fit: contain;
 }
 .post-content {
