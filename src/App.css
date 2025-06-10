@@ -274,6 +274,7 @@ a:hover{
     width: 240px;
     height: 135px;
     margin-right: 0;
+    align-self:center;
   }
   .post-content {
     width:auto;
