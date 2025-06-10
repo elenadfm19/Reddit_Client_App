@@ -1,6 +1,6 @@
 # Reddit Client
 
-This web app simulates a Reddit client built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [React Router](https://reactrouter.com/).
+This web app simulates a Reddit client built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [React Router](https://reactrouter.com/). 
 
 ## 🚀 Features
 
@@ -10,7 +10,12 @@ This web app simulates a Reddit client built with [Vite](https://vitejs.dev/), [
 - Dynamic routing
 - State management with Redux Toolkit
 
-## 📦 Technologies Used
+## 🖼️ Demo
+[Live Demo on Netlify] ([https://music-box-web-app.netlify.app/](https://reddit-client-web-app.netlify.app/subreddits/default))
+
+## 📷 Screenshots
+
+## 📦 Built with
 
 - Vite
 - React
@@ -29,7 +34,7 @@ npm install
 npm run dev
 4. The app should open at http://localhost:5173.
 
-📁 Project Structure
+## 📁 Project Structure
 src/
 ├── app/            # Redux store configuration
 ├── components/     # Shared UI components
