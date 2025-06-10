@@ -265,15 +265,15 @@ a:hover{
     align-items: stretch;
     flex-direction: column;
     color:black;
+    overflow:hidden;
   }
   .post-media {
-    width: 360px;
-    height: 203px;
-    margin:1rem;
+    width: 320px;
+    height: 180px;
+    margin: 0.25rem;
   }
   .post-content {
-    min-width:0;
-    flex: 1 1 auto;
+    max-width:100%;
 }
   .post-bottom {
     flex-direction: column;
