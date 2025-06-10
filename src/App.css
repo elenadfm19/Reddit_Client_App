@@ -160,6 +160,7 @@ legend {
   width: 100%;
 }
 #commented-post {
+  width:100%;
   display: flex;
   flex-direction:column;
   justify-content: center;
