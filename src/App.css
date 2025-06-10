@@ -251,7 +251,9 @@ a:hover{
     align-items: center;
     gap: 2rem;
   }
-
+.navlinks {
+  justify-content: space-around;
+}
   #subreddit-list {
     justify-content: center;
     margin:2rem;
@@ -262,13 +264,14 @@ a:hover{
     min-width: 0px;
   }
   .post {
-    align-items: center;
+    align-items: stretch;
     flex-direction: column;
     color:black;
   }
   .post-media {
     width: 240px;
     height: 135px;
+    margin-right: 0;
   }
   .post-content {
     width:auto;
