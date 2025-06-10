@@ -320,7 +320,12 @@ a:hover{
   }
   .show-buttons{
     width:100%;
-    border:1px solid green;
+  }
+  .button-active {
+    margin: auto;
+  }
+  .button-inactive {
+    margin: auto;
   }
 
 }
