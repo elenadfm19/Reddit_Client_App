@@ -256,6 +256,10 @@ a:hover{
   margin: 0.5rem;
   padding: 0.5rem;
 }
+  #search {
+    background-color:white;
+    color:black;
+}
   #subreddit-list {
     justify-content: center;
     margin:2rem;
@@ -288,12 +292,9 @@ a:hover{
   .score {
     justify-content: left;
 }
-  #commented-post {
-    
-}
   .commented-post-media {
     width: 240px;
     height: 135px;
-
+    align-self:center;
   }
 }
