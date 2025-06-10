@@ -105,7 +105,7 @@ export default function Posts({ topic, search }) {
                     {item.url}
                   </a>
                 )}
-                <p>{item.text}</p>
+                <p className='title'>{item.text}</p>
               </div>
               <div className="post-bottom">
                 <div className="score">
