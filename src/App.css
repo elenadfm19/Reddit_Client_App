@@ -296,6 +296,14 @@ a:hover{
     justify-content: left;
   }
   .score {
-  justify-content: left;
+    justify-content: left;
 }
+  #commented-post {
+    color:black;
+}
+  .commented-post-media {
+    width: 240px;
+    height: 135px;
+
+  }
 }
