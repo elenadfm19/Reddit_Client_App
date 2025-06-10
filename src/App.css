@@ -110,6 +110,7 @@ legend {
   justify-content: center;
   align-items:center;
   border:1px solid green;
+  box-sizing: border-box;
 }
 .post {
   background-color: #ffe5d4;
@@ -121,6 +122,7 @@ legend {
   justify-content: left;
   width:100%;
   border:1px solid red;
+  box-sizing: border-box;
 }
 .post:hover {
   cursor: pointer;
