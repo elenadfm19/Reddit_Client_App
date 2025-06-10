@@ -119,7 +119,7 @@ legend {
   justify-content: left;
   overflow:hidden;
 }
-.post:hover {
+.post-content:hover {
   cursor: pointer;
 }
 .title {
