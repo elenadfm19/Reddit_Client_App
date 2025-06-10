@@ -165,6 +165,7 @@ legend {
   flex-direction:column;
   justify-content: center;
   overflow:hidden;
+  border:1px solid green;
 }
 .commented-post-media {
   margin-bottom: 1rem;
