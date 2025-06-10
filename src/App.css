@@ -318,4 +318,13 @@ a:hover{
   h1 {
     font-size:2rem;
   }
+  .show-buttons{
+    width:100%;
+  }
+  .button-active {
+    width: 6rem;
+  }
+  .button-inactive {
+    width: 6rem;
+  }
 }
