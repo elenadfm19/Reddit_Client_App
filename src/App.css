@@ -223,6 +223,7 @@ h3 {
 .link {
   font-size: 1.5rem;
   width:100%;
+  word-break: break-word;
 }
 .button-active {
   background-color: black;
