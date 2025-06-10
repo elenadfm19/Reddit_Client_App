@@ -173,6 +173,9 @@ legend {
   width: 640px;
   height: 360px;
 }
+.text {
+  font-size:1rem;
+}
 .post-link {
   background-color: black;
   color: white;
