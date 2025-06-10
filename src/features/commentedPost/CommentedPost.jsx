@@ -42,17 +42,17 @@ export default function CommentedPost() {
 
         {/*Conditionally renders media content based on mediaType*/}
         {commentedPost.mediaType === "image" && (
-          <div id="commented-post-media">
+          <div className="commented-post-media">
             <img src={commentedPost.url} className="post-img" />
           </div>
         )}
         {commentedPost.mediaType === "gallery" && (
-          <div id="commented-post-media">
+          <div className="commented-post-media">
             <img src={commentedPost.urlArray[0]} className="post-img" />
           </div>
         )}
         {commentedPost.mediaType === "rich:video" && (
-          <div id="commented-post-media">
+          <div className="commented-post-media">
             <ReactPlayer
               url={commentedPost.url}
               width="100%"
@@ -62,7 +62,7 @@ export default function CommentedPost() {
           </div>
         )}
         {commentedPost.mediaType === "hosted:video" && (
-          <div id="commented-post-media">
+          <div className="commented-post-media">
             <ReactPlayer
               url={commentedPost.dashUrl}
               width="100%"
