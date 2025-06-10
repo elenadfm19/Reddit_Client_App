@@ -125,7 +125,6 @@ legend {
   margin-right: 2rem;
   width: 480px;
   height: 270px;
-  border:1px solid red;
 }
 .post-img {
   width: 100%;
@@ -138,7 +137,6 @@ legend {
   display: flex;
   flex-direction: column;
   justify-content: space-between;
-  border:1px solid green;
 }
 .post-bottom {
   display: flex;
@@ -250,6 +248,8 @@ a:hover{
     justify-content: center;
     align-items: center;
     gap: 2rem;
+      flex-direction:column;
+  align-items:stretch;
   }
 .navlinks {
   flex-direction:column;
