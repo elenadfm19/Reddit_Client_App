@@ -246,11 +246,11 @@ a:hover{
 
   #subreddit-list {
     justify-content: center;
+    margin:2rem;
   }
 .subreddit {
   flex: 0 0.1 100%;
   color:black;
-  margin: 0.25rem 0;
 }
   .post {
     justify-content: center;
