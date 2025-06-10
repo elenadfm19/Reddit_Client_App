@@ -97,7 +97,7 @@ export default function Posts({ topic, search }) {
             {/*Post content area (clickable for details)*/}
             <div className="post-content" id={item.id} onClick={handleClick}>
               <div className="post-text">
-                <p>
+                <p className="title">
                   <strong>{item.title}</strong>
                 </p>
                 {item.mediaType === "link" && (
@@ -105,7 +105,7 @@ export default function Posts({ topic, search }) {
                     {item.url}
                   </a>
                 )}
-                <p className="title">{item.text}</p>
+                <p>{item.text}</p>
               </div>
               <div className="post-bottom">
                 <div className="score">
