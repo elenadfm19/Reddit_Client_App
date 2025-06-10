@@ -4,8 +4,10 @@ This web app simulates a Reddit client built with [Vite](https://vitejs.dev/), [
 
 ## 🚀 Features
 
-- Browse top subreddits
-- View subreddit posts and details
+- Browse subreddits by type: default, popular and new.
+- Browse posts included in a specific subreddit.
+- Search specific subreddits and posts by key words.
+- Access to the details of each posts including nested comments.
 - Responsive design
 - Dynamic routing
 - State management with Redux Toolkit
