@@ -262,14 +262,13 @@ a:hover{
     min-width: 0px;
   }
   .post {
-    align-items: left;
+    align-items: center;
     flex-direction: column;
     color:black;
   }
   .post-media {
     width: 240px;
     height: 135px;
-    margin: 0.25rem;
   }
   .post-content {
     width:auto;
