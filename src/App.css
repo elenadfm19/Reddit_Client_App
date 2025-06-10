@@ -261,12 +261,12 @@ a:hover{
     min-width: 0px;
   }
   .post {
-    align-items: center;
+    align-items: stretch;
     flex-direction: column;
     color:black;
   }
   .post-media {
-    width: 460px;
+    width: 360px;
     height: 203px;
     margin:1rem;
   }
