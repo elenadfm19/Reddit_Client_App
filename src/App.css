@@ -117,7 +117,7 @@ legend {
   display: flex;
   flex-wrap: wrap;
   justify-content: left;
-  width:auto;
+  flex:0 1 100%;
   overflow:hidden;
   border:1px solid red;
 }
