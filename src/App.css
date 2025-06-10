@@ -175,6 +175,7 @@ legend {
 }
 .text {
   font-size:1rem;
+  word-break: break-word;
 }
 .post-link {
   background-color: black;
@@ -221,6 +222,7 @@ h3 {
 }
 .link {
   font-size: 1.5rem;
+  width:100%;
 }
 .button-active {
   background-color: black;
