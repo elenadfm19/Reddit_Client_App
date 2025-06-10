@@ -103,6 +103,7 @@ legend {
   font-weight: bold;
   font-size: 1.5rem;
   width:100%;
+  word-break: break-word;
 }
 #post-list{
   display:flex;
