@@ -165,7 +165,7 @@ legend {
   justify-content: center;
   overflow:hidden;
 }
-#commented-post-media {
+.commented-post-media {
   margin-bottom: 1rem;
   width: 640px;
   height: 360px;
@@ -302,7 +302,7 @@ a:hover{
   #commented-post {
     color:black;
 }
-  #commented-post-media {
+  .commented-post-media {
     width: 240px;
     height: 135px;
 
