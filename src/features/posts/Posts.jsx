@@ -69,7 +69,7 @@ export default function Posts({ topic, search }) {
               </div>
             )}
             {item.mediaType === "gallery" && (
-              <div id="commented-post-media">
+              <div className="post-media">
                 <img src={item.urlArray[0]} className="post-img" />
               </div>
             )}
