@@ -253,23 +253,23 @@ a:hover{
     justify-content: center;
     margin:2rem;
   }
-.subreddit {
-  flex: 0 0.1 100%;
-  color:black;
-  min-width: 0px;
-}
-  .post {
-    justify-content: center;
+  .subreddit {
+    flex: 0 0.1 100%;
     color:black;
+    min-width: 0px;
+  }
+  .post {
+    align-items: center;
     flex-direction: column;
+    color:black;
   }
   .post-media {
-    width: 100%;
-    height: auto;
+    width: 460px;
+    height: 203px;
     margin:1rem;
   }
-.post-bottom {
-  flex-direction: column;
-  justify-content: left;
+  .post-bottom {
+    flex-direction: column;
+    justify-content: left;
+  }
 }
-
