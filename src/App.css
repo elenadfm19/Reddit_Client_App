@@ -159,6 +159,12 @@ legend {
   justify-content: space-between;
   width: 100%;
 }
+#commented-post {
+  display: flex;
+  flex-direction:column;
+  justify-content: center;
+  overflow:hidden;
+}
 #commented-post-media {
   margin-bottom: 1rem;
   width: 640px;
