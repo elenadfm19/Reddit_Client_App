@@ -16,6 +16,7 @@ This web app simulates a Reddit client built with [Vite](https://vitejs.dev/), [
 [Live Demo on Netlify] ([https://music-box-web-app.netlify.app/](https://reddit-client-web-app.netlify.app/subreddits/default))
 
 ## 📷 Screenshots
+![image](https://github.com/user-attachments/assets/8680ce39-f2b3-4f6d-8f71-f5f0612e5160)
 
 ## 📦 Built with
 
@@ -35,12 +36,3 @@ npm install
 3. Run the development server:
 npm run dev
 4. The app should open at http://localhost:5173.
-
-## 📁 Project Structure
-src/
-├── app/            # Redux store configuration
-├── components/     # Shared UI components
-├── features/       # Redux feature slices (e.g., posts, subreddits)
-├── pages/          # Route-based components
-├── App.jsx
-├── main.jsx
