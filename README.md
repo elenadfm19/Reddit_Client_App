@@ -17,6 +17,8 @@ This web app simulates a Reddit client built with [Vite](https://vitejs.dev/), [
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/8680ce39-f2b3-4f6d-8f71-f5f0612e5160)
+![image](https://github.com/user-attachments/assets/f3709fec-3a38-4054-a417-5dd4205b8c3f)
+
 
 ## 📦 Built with
 
