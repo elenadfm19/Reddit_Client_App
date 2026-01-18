@@ -1,16 +1,19 @@
 # Reddit Client
 
-This web app simulates a Reddit client built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [React Router](https://reactrouter.com/). 
+A full-stack Reddit client application consisting of a React frontend and an Express backend that proxies requests to Reddit’s public API to prevent CORS issues.
+The frontend is built with [Vite](https://vitejs.dev/), [React](https://reactjs.org/), [Redux](https://redux.js.org/), and [React Router](https://reactrouter.com/). 
+The backend uses Express to securely fetch data from Reddit before delivering it to the client.
 
 ## 🚀 Features
 
 - Browse subreddits by type: default, popular and new.
 - Browse posts included in a specific subreddit.
 - Search specific subreddits and posts by key words.
-- Access to the details of each posts including nested comments.
-- Responsive design
-- Dynamic routing
+- View detailed posts including nested comments.
+- Fully responsive UI
+- Dynamic routing via React Router
 - State management with Redux Toolkit
+- Backend proxy to bypass CORS & rate-limit issues
 
 ## 🖼️ Demo
 [Live Demo on Render] ([(https://reddit-client-app-frontend.onrender.com)](https://reddit-client-app-frontend.onrender.com/))
