@@ -44,16 +44,16 @@ Backend
 git clone https://github.com/elenadfm19/Reddit_Client_App.git
 cd Reddit_Client_App
 ```
-3. Install backend dependencies and run the development server:
+2. Install backend dependencies and run the development server:
 ```bash
 cd ../backend
 npm install
 node app.js
 ```
-4. Install frontend dependencies:
+3. Install frontend dependencies:
 ```bash
 cd frontend
 npm install
 npm run dev
 ```
-5. The app should open at http://localhost:5173.
+4. The app should open at http://localhost:5173.
