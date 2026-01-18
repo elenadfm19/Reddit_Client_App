@@ -46,13 +46,13 @@ cd Reddit_Client_App
 ```
 2. Install backend dependencies and run the development server:
 ```bash
-cd ../backend
+cd backend
 npm install
 node app.js
 ```
 3. Install frontend dependencies:
 ```bash
-cd frontend
+cd ../frontend
 npm install
 npm run dev
 ```
