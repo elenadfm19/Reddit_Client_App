@@ -13,7 +13,7 @@ This web app simulates a Reddit client built with [Vite](https://vitejs.dev/), [
 - State management with Redux Toolkit
 
 ## 🖼️ Demo
-[Live Demo on Render] ([(https://reddit-client-app-frontend.onrender.com)][https://reddit-client-web-app.netlify.app](https://reddit-client-app-frontend.onrender.com/subreddits/default))
+[Live Demo on Render] ([(https://reddit-client-app-frontend.onrender.com)](https://reddit-client-app-frontend.onrender.com/subreddits/default))
 
 ## 📷 Screenshots
 ![image](https://github.com/user-attachments/assets/8680ce39-f2b3-4f6d-8f71-f5f0612e5160)
