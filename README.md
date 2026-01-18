@@ -31,6 +31,7 @@ Frontend
 - React
 - Redux Toolkit
 - React Router
+
 Backend
 - Express
 - Node.js
@@ -39,14 +40,17 @@ Backend
 ## 🔧 Installation
 
 1. Clone the repository:
+
 git clone https://github.com/elenadfm19/Reddit_Client_App.git
 cd Reddit_Client_App
-2. Install backend dependencies and run the development server:
+3. Install backend dependencies and run the development server:
+
 cd ../backend
 npm install
 node app.js
-3. Install frontend dependencies:
+4. Install frontend dependencies:
+
 cd frontend
 npm install
 npm run dev
-4. The app should open at http://localhost:5173.
+5. The app should open at http://localhost:5173.
