@@ -19,11 +19,11 @@ The backend uses Express to securely fetch data from Reddit before delivering it
 [Live Demo on Render] ([(https://reddit-client-app-frontend.onrender.com)](https://reddit-client-app-frontend.onrender.com/))
 
 ## 📷 Screenshots
-![image](https://github.com/user-attachments/assets/8680ce39-f2b3-4f6d-8f71-f5f0612e5160)
+<img width="1047" height="843" alt="Screenshot 1" src="https://github.com/user-attachments/assets/da36e61a-a246-43cb-a2c2-9601afaa9d4d" />
 
+<img width="1037" height="853" alt="Screenshot 2" src="https://github.com/user-attachments/assets/0c8be2c2-96c9-42e0-8492-4f635f341e92" />
 
-![image](https://github.com/user-attachments/assets/f3709fec-3a38-4054-a417-5dd4205b8c3f)
-
+<img width="1048" height="645" alt="Screenshot 3" src="https://github.com/user-attachments/assets/ff9b221a-5431-4446-bed3-6efc727590c6" />
 
 ## 📦 Built with
 Frontend
